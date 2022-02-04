@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm WooheonHong</h1>
-<h3 align="center">A M.S student at POSTECH GSAI</h3>
+<h3 align="center">M.S student at POSTECH GSAI</h3>
 
 - 🔭 I’m currently working on [Multiclass Anomaly Detection](https://github.com/WooheonHong/MAD)
 
