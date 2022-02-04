@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Multiclass Anomaly Detection](https://github.com/WooheonHong/MAD)
 
-- 🌱 I’m currently learning **Anomaly detection, Semi-supervised learning and Spatio-temporal forecasting**
+- 🌱 I’m currently learning **Anomaly detection, Semi-supervised learning, Spatio-temporal forecasting and Probabilistic forecasting**
 
 - 📫 How to reach me **quasar103@postech.ac.kr**
 
