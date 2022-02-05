@@ -13,9 +13,13 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> <a> <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"> </a> </p> 
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"> </a> <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"> <img src=https://img.shields.io/static/v1?style=flat&message=scikit-learn&color=F7931E&logo=scikit-learn&logoColor=FFFFFF&label=> </a> <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src=https://img.shields.io/static/v1?style=flat&message=Apache+Spark&color=E25A1C&logo=Apache+Spark&logoColor=FFFFFF&label=> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">  </a> </p>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"> </a> <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"> <img src=https://img.shields.io/static/v1?style=flat&message=scikit-learn&color=F7931E&logo=scikit-learn&logoColor=FFFFFF&label=> </a> </p>
+<h4 align="left">Languages and Tools: Beginner Level </h3>
+ <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white">  </a> 
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">  </a>
+    <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white">  </a> 
+<a href="https://spark.apache.org/" target="_blank" rel="nreferrer"> <img src=https://img.shields.io/static/v1?style=flat&message=Apache+Spark&color=E25A1C&logo=Apache+Spark&logoColor=FFFFFF&label=> </a>
  
- <p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white">  </a>  
 
 
 # Cards
