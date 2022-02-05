@@ -12,10 +12,10 @@
 - 📝 The materials that I studied [ML Books](https://github.com/WooheonHong/ML-DL-Book-Summary), [Data Science](https://github.com/WooheonHong/DS-undergraduate) and AI papers
 
 <h3 align="left">Languages and Tools:</h3>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg?style=flat-square&logo=Python&logoColor=white"> <a> <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"> </a> </p> 
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1920px-Apache_Spark_logo.svg.png" alt="spark" width="40" height="40"/> </a> </p> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> <a> <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"> </a> </p> 
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"> </a> <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=Spark&logoColor=white"> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"> </a> </p> 
  
- <p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  
+ <p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white">  </a>  
 
 
 # Cards
