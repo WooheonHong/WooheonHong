@@ -13,13 +13,13 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> <a> <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"> </a> </p> 
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"> </a> <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src=https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Spark&color=E25A1C&logo=Apache+Spark&logoColor=FFFFFF> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikit_learn&logoColor=white"> </a> </p> 
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"> </a> <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src=https://img.shields.io/badge/v1?style=for-the-badge&message=Apache+Spark&color=E25A1C&logo=Apache+Spark&logoColor=FFFFFF> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikit_learn&logoColor=white"> </a> </p> 
  
  <p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white">  </a>  
 
 
 # Cards
 
-[![Wooheon's GitHub stats](https://github-readme-stats.vercel.app/api?username=WooheonHong&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WooheonHong&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Wooheon's GitHub icts](https://github-readme-stats.vercel.app/api?username=WooheonHong&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WooheonHong&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
