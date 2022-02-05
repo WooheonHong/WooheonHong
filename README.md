@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **quasar103@postech.ac.kr**
 
-- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/wooheon-hong-b33621200/)
+- 📄 Know about my career and experiences [LinkedIn](https://www.linkedin.com/in/wooheon-hong-b33621200/)
 
 - 📝 The materials that I studied [ML Books](https://github.com/WooheonHong/ML-DL-Book-Summary), [Data Science](https://github.com/WooheonHong/DS-undergraduate) and AI papers
 
