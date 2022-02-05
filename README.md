@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **quasar103@postech.ac.kr**
 
-- 📄 Know about my experiences **[LinkedIn]**(https://www.linkedin.com/in/wooheon-hong-b33621200/)
+- 📄 Know about my experiences **[LinkedIn](https://www.linkedin.com/in/wooheon-hong-b33621200/)**
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <a> <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1024px-R_logo.svg.png" alt=R" width="40" height="40"/> </a> </p> 
