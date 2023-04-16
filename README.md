@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Anomaly detection, Semi-supervised learning, Spatio-temporal forecasting and Probabilistic forecasting**
 
-- 📫 How to reach me **quasar103@postech.ac.kr**
+- 📫 How to reach me **wooheon.hong@gmail.com**
 
 - 📄 Know about my career and experiences [LinkedIn](https://www.linkedin.com/in/wooheon-hong-b33621200/)
 
